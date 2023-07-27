@@ -2,8 +2,8 @@
 /**
  *
  * _strcat - concatenates two strings
- * @dest: impute value
- * @src: impute value
+ * @dest: inpute value
+ * @src: inpute value
  *
  * Return: void
  */
