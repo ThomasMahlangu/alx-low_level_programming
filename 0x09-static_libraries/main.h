@@ -1,5 +1,5 @@
-#ifndef _main_h_
-#define _main_h_
+#ifndef main_h_
+#define main_h_
 
 int _putchar(char c);
 
@@ -41,4 +41,4 @@ char *_strpbrk(char *s, char *accept);
 
 char *_strstr(char *haystack, char *needle);
 
-#endif /* _holberton_h_ 
+#endif 
